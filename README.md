@@ -4,7 +4,7 @@
 
 Datcord is a full-stack web application cloned and inspired by Discord. The build currently supports six features for user interactivity: (1) Servers: Full CRUD, (2) Channels: Full CRUD, (3) Channel Messages: Full CRUD, (4) Memberships: Full CRUD, (5) Theme: Switch between light and dark mode, (6) Friendship: Full CRUD
 
-[Click to view DatCord Live](linkhere)
+[Click to view DatCord Live](https://datcord-project-uauy.onrender.com/)
 
 ## 💻 **Tech Stack**
 
